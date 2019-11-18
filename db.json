@@ -1,0 +1,24 @@
+{
+	"ads": [{
+			"title": "Superbe T3",
+			"description": "Lorem ipsum",
+			"type": "Apartment",
+			"city": "Dijon",
+			"price": 175000
+		},
+		{
+			"title": "Studio proche gare",
+			"description": "Lorem ipsum",
+			"type": "Apartment",
+			"city": "Dijon",
+			"price": 85000
+		},
+		{
+			"title": "Villa 176 m2",
+			"description": "Lorem ipsum",
+			"type": "House",
+			"city": "Plombière-lès-Dijon",
+			"price": 235000
+		}
+	]
+}
