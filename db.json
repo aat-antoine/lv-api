@@ -1,5 +1,6 @@
 {
 	"ads": [{
+			"id": 1,
 			"title": "Superbe T3",
 			"description": "Lorem ipsum",
 			"type": "Apartment",
@@ -7,6 +8,7 @@
 			"price": 175000
 		},
 		{
+			"id": 2,
 			"title": "Studio proche gare",
 			"description": "Lorem ipsum",
 			"type": "Apartment",
@@ -14,6 +16,7 @@
 			"price": 85000
 		},
 		{
+			"id": 3,
 			"title": "Villa 176 m2",
 			"description": "Lorem ipsum",
 			"type": "House",
